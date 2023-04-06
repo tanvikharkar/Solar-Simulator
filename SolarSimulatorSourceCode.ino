@@ -1,6 +1,7 @@
 // Solar Simulator LED Intensity Code
 // Tanvi Kharkar, Mitchel Hutcheson, Jake Meyers EE 461/462 'Design of an LED Based Solar Simulator'
 
+
 // LED color and corresponding Arduino pin
 const int RED = 3;
 const int GREEN = 4;
